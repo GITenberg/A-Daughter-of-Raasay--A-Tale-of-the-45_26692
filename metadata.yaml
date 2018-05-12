@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26692#A-Daughter-of-Raasay--A-Tale-of-the-45
 gutenberg_issued: '2008-09-23'
 gutenberg_type: Text
 identifiers:
