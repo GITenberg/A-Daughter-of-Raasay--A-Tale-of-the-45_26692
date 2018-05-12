@@ -1,0 +1,35 @@
+_repo: A-Daughter-of-Raasay--A-Tale-of-the-45_26692
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Travis, Stuart
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '32179'
+    url: http://www.gutenberg.org/2009/agents/32179
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raine, William MacLeod
+    birthdate: 1871
+    deathdate: 1954
+    gutenberg_agent_id: '713'
+    url: http://www.gutenberg.org/2009/agents/713
+    wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
+description: ''
+gutenberg_issued: '2008-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26692'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+title: 'A Daughter of Raasay: A Tale of the ''45'
+url: http://www.gutenberg.org/ebooks/26692
